@@ -1,0 +1,62 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-I./include",
+            "-o",
+            "src/scene.o",
+            "src/scene.cpp"
+        ],
+        "directory": "/home/oct/code/ecs",
+        "file": "src/scene.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-I./include",
+            "-o",
+            "src/main.o",
+            "src/main.cpp"
+        ],
+        "directory": "/home/oct/code/ecs",
+        "file": "src/main.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-I./include",
+            "-o",
+            "src/entity.o",
+            "src/entity.cpp"
+        ],
+        "directory": "/home/oct/code/ecs",
+        "file": "src/entity.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-I./include",
+            "-o",
+            "src/ecs.o",
+            "src/ecs.cpp"
+        ],
+        "directory": "/home/oct/code/ecs",
+        "file": "src/ecs.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-I./include",
+            "-o",
+            "src/compstore.o",
+            "src/compstore.cpp"
+        ],
+        "directory": "/home/oct/code/ecs",
+        "file": "src/compstore.cpp"
+    }
+]
